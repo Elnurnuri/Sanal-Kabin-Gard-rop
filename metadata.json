@@ -1,0 +1,8 @@
+{
+  "name": "VARDE — Sanal Kabin \u0026 Gardırop",
+  "description": "Koleksiyonlardan seçtiğiniz ürünleri satın almadan önce sanal gardırobunuzda ve kendi üzerinizde deneyin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
